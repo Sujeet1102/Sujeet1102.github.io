@@ -1,6 +1,6 @@
-Hi 👋 <em>whoever_is_reading_this</em>,
+Hi 👋 <em>Whoever is reading this</em>,
 
-Welcome to my website! 🙏
+Welcome to my webpage! 🙏
 
 I want to use this page as a tool to showcase my projects and ideas. Here's some info about me,  
 I am working in the ASIC industry as a silicon validation engineer (still a beginner).  

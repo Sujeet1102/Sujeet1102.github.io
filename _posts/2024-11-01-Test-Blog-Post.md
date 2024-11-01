@@ -3,7 +3,7 @@
  ```c
 int main(void)
 {
- 	int a = 10;
- 	return 0;
+    int a = 10;
+    return 0;
 }
  ```
