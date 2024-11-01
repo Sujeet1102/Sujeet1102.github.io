@@ -1,4 +1,4 @@
-Hi 👋 <em>Whoever is reading this</em>,
+Hi, 👋
 
 Welcome to my webpage! 🙏
 
